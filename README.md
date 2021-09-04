@@ -8,7 +8,7 @@ permalink: index.html
 
 Ce micro-site présente des livres utiles pour l'pour enseignement IMD, disponibles à la bibliothèque Eracom-Epsic.
 
-## Livres par discipline
+## Livres par discipline
 
 * Livres Design d'interfaces
 * Livres Création graphique
@@ -18,7 +18,7 @@ Ce micro-site présente des livres utiles pour l'pour enseignement IMD, disponib
 * Livres Créativité
 * Livres Marketing
 
-## Livres par arrivage
+## Livres par arrivage
 
 * Nouveautés: septembre 2021.
 
