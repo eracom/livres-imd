@@ -11,6 +11,10 @@ title: Livres design d'interfaces
 - Alan Cooper (2014). *About Face: The Essentials of Interaction Design*. Wiley.
 - Jenifer Tidwell (2020). *Designing Interfaces: Patterns for Effective Interaction Design*. O'Reilly.
 
+![Trois bibles du design interactif](images/2020-10/interaction-design-bibles.jpg)
+
+![Kim Goodwin sur les personas](images/2020-10/creating-personas.jpg)
+
 Un livre généraliste:
 
 - *Le design interactif*, Benoît Drouillat, Dunod.
@@ -18,6 +22,9 @@ Un livre généraliste:
 ## Sur le design pour le web
 
 - *Art Direction for the Web*, Andy Clarke, Smashing Media, 2019.
+- *Web Design. The Evolution of the Digital World 1990–Today*, Rob Ford, Julius Wiedemann, Taschen.
+
+![Histoire du web en 2017](images/2020-10/2017-web-history.jpg)
 
 ## Sur l'accessibilité
 

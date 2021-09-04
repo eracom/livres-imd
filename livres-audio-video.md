@@ -3,7 +3,7 @@ layout: page
 title: Livres audio/vidéo
 ---
 
-## Pour les cours vidéo
+## Pour les cours vidéo
 
 - *Cinematography, Theory & Practice (3rd edition)*, Blain Brown, Focal press.
 - *The Filmmaker’s Guide to Digital Imaging*, Blain Brown, Focal Press.
