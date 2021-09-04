@@ -1,3 +1,8 @@
+---
+layout: page
+title: Livres créativité
+---
+
 Livres autour de la créativité.
 
 ### Thématique: créativité
