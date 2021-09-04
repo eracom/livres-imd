@@ -24,7 +24,7 @@ Un livre généraliste:
 - *Art Direction for the Web*, Andy Clarke, Smashing Media, 2019.
 - *Web Design. The Evolution of the Digital World 1990–Today*, Rob Ford, Julius Wiedemann, Taschen.
 
-![Histoire du web en 2017](images/2020-10/2017-web-history.jpg)
+![Histoire du web en 2017](images/2020-01/2017-web-history.jpg)
 
 ## Sur l'accessibilité
 
