@@ -43,7 +43,7 @@ Nous avons en rayon tous les titres (ou presque) de cette collection:
 - Mat Marquis (2017), *Javascript pour les web designers*.
 - David Demaree (2018), *Git par la pratique*.
 
-### Orientés design et UX
+### Orienté design et UX
 
 - Ethan Marcotte (2011), *Responsive web design*.
 - Aarron Walter (2011), *Design émotionnel*.
@@ -52,7 +52,7 @@ Nous avons en rayon tous les titres (ou presque) de cette collection:
 - Josh Clark (2016), *Design tactile*.
 - Ethan Marcotte (2016), *Responsive design patterns*.
 
-### Orientés stratégie, recherche
+### Orienté stratégie, recherche
 
 - Erin Kissane (2012), *Stratégie de contenu web*.
 - Karen McGrane (2013), *Stratégie de contenu mobile*.
