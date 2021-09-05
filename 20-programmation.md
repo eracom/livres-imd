@@ -6,13 +6,15 @@ permalink: programmation.html
 
 ## Sur l'enseignement de la programmation
 
-![](images/2021-01/code/code-cover.jpg)
+![](images/code/code-cover.jpg)
 
 - Golan Levin and Tega Brain (2021). *Code as Creative Medium*. MIT Press.
 
 Ce livre s'adresse explicitement aux enseignants. En plus de fournir des dizaines d'idées d'exercices, il comporte une section *Advice for New Educators*, ainsi qu'un chapitre *"Classroom techniques"*.
 
-![Classroom techniques](images/2021-01/code/classroom-techniques-p233.jpg)
+![Classroom techniques](images/code/classroom-techniques-p233.jpg)
+
+![Exercises: Computing without a Computer](images/code/without-computer.jpg)
 
 Un scan partiel est [disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EubEwjMmQMdPinIa0tFLcHQBup7cZEehI5sV-RhlhyvLGA?e=zjU8K3).
 
