@@ -13,12 +13,14 @@ Ce livre s'adresse explicitement aux enseignants. En plus de fournir des dizaine
 
 ![Classroom techniques](images/2021-01/code/classroom-techniques-p233.jpg)
 
-[Voir dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EubEwjMmQMdPinIa0tFLcHQBup7cZEehI5sV-RhlhyvLGA?e=zjU8K3).
+Un scan partiel est [disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EubEwjMmQMdPinIa0tFLcHQBup7cZEehI5sV-RhlhyvLGA?e=zjU8K3).
 
 ## Livres de Raphaël Goetter
 
 - *CSS 3 Flexbox*, Eyrolles
 - *CSS 3 Grid Layout*, Eyrolles
+
+Version PDF [disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EpHYaLk37T5Es3Ox7FJD5nQBwZ_cwfeZZdujellEoxsMzQ?e=TeQnZC).
 
 ## Sur le Javascript
 
