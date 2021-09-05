@@ -2,13 +2,13 @@ Ce micro-site présente des livres utiles pour l'enseignement en filière IMD. T
 
 ## Livres par discipline
 
-* [Livres Design d'interfaces](10-design-interfaces.md)
-* [Livres Programmation](20-programmation.md)
-* [Livres Audio-vidéo](30-audio-video.md)
-* [Livres Culture visuelle](40-culture-visuelle.md)
-* [Livres Créativité](50-creativite.md)
-* [Livres Marketing](60-marketing.md)
-* [Livres Pédagogie](70-pedagogie.md)
+* [Livres Design d'interfaces](design-interfaces.html)
+* [Livres Programmation](programmation.html)
+* [Livres Audio-vidéo](audio-video.html)
+* [Livres Culture visuelle](culture-visuelle.html)
+* [Livres Créativité](creativite.html)
+* [Livres Marketing](marketing.html)
+* [Livres Pédagogie](pedagogie.html)
 
 ## Livres par arrivage
 
