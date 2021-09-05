@@ -28,7 +28,7 @@ Un livre qui retrace l'histoire du web design de 1990 à 2018:
 
 - *Web Design. The Evolution of the Digital World 1990–Today*, Rob Ford, Julius Wiedemann, Taschen.
 
-![Histoire du web en 2017](images/2020-01/2017-web-history.jpg)
+![Histoire du web en 2017](images/2021-01/2017-web-history.jpg)
 
 ## Sur l'accessibilité
 
