@@ -21,7 +21,11 @@ Un livre généraliste:
 
 ## Sur le design pour le web
 
-- *Art Direction for the Web*, Andy Clarke, Smashing Media, 2019.
+- Andy Clarke (2019). *Art Direction for the Web*. Smashing Media.
+- Anne-Sophie Fradier (2012). *Webgrids : structure et typographie de la page web*. Perrousseaux.
+
+Un livre qui retrace l'histoire du web design de 1990 à 2018:
+
 - *Web Design. The Evolution of the Digital World 1990–Today*, Rob Ford, Julius Wiedemann, Taschen.
 
 ![Histoire du web en 2017](images/2020-01/2017-web-history.jpg)
