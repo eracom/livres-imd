@@ -1,10 +1,4 @@
----
-layout: page
-title: Livres pour enseignement IMD
-permalink: index.html
----
-
-Ce micro-site présente des livres utiles pour l'enseignement en filière IMD. Tous les livres sont disponibles à [la mediathèque Eracom-Epsic](https://www.epsic.ch/index.php/services/mediatheque).
+Ce micro-site présente des livres utiles pour l'enseignement en filière IMD. Tous les livres sont disponibles à la [médiathèque Eracom-Epsic](https://www.epsic.ch/index.php/services/mediatheque).
 
 ## Livres par discipline
 
@@ -30,7 +24,7 @@ Renouvaud est l’interface de recherche du réseau des bibliothèques vaudoises
 
 ## Lien Teams
 
-[Ce lien Teams](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ErS8-cgW6-dJtbrVij7rC_gBCCjlpHsKg0v__pHsS9N3AQ?e=7ucTn8) permet aux membres Eduvaud d'accéder à des copies numériques de certains de ces livres.
+[Ce lien OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ErS8-cgW6-dJtbrVij7rC_gBCCjlpHsKg0v__pHsS9N3AQ?e=7ucTn8) permet aux enseignant·es d'accéder à des copies numériques de certains de ces livres.
 
 ## Autres ressources pédagogiques:
 

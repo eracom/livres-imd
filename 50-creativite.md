@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Livres créativité
+permalink: creativite.html
 ---
 
 Livres autour de la créativité.

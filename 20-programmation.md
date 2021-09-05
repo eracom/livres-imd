@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Livres programmation
+permalink: programmation.html
 ---
 
 ## Sur l'enseignement de la programmation

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Livres audio/vidéo
+permalink: audio-video.html
 ---
 
 ## Pour les cours vidéo

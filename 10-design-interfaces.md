@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Livres design d'interfaces
+permalink: design-interfaces.html
 ---
 
 ## Livres de référence en design d'interaction et UX
