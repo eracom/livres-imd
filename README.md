@@ -1,5 +1,7 @@
 Ce micro-site présente des livres utiles pour l'enseignement en filière IMD. Tous les livres sont disponibles à la [médiathèque Eracom-Epsic](https://www.epsic.ch/index.php/services/mediatheque).
 
+![](images/biblio/biblio-epsic.jpg)
+
 L'objectif est de mettre cette bibliothèque de travail à contribution pour soutenir l'enseignement et l'apprentissage.
 
 ## Livres par disciplines

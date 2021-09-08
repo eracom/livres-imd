@@ -36,6 +36,8 @@ Version PDF [disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/p
 
 ## La collection A Book Apart
 
+![](images/code/etagere-web.jpg)
+
 Nous avons en rayon tous les titres (ou presque) de cette collection:
 
 ### Orienté code
