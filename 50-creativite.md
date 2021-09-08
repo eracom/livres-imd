@@ -33,3 +33,11 @@ Livres autour de la créativité.
 
 ![](images/2021-02/pensee-creative-intro.jpg)
 
+![](images/crea/nielsen/connexions.jpeg)
+
+![](images/crea/nielsen/exercice-8.jpeg)
+
+![](images/crea/nielsen/exercice-11.jpeg)
+
+![](images/crea/nielsen/exercice-12.jpeg)
+
