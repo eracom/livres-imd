@@ -35,6 +35,8 @@ Livres autour de la créativité.
 
 ![](images/crea/nielsen/connexions.jpeg)
 
+![](images/crea/nielsen/1001-idees.jpeg)
+
 ![](images/crea/nielsen/exercice-8.jpeg)
 
 ![](images/crea/nielsen/exercice-11.jpeg)
