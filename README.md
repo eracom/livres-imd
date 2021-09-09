@@ -16,9 +16,9 @@ L'objectif est de mettre cette bibliothèque de travail à contribution pour sou
 
 ## Livres par arrivage
 
-* [Nouveautés: septembre 2021](new-2021-02.md).
-* [Nouveautés: printemps 2021](new-2021-01.md).
-* [Nouveautés: automne 2020](new-2020-10.md).
+* [Nouveautés: septembre 2021](new-2020-10.html).
+* [Nouveautés: printemps 2021](new-2021-01.html).
+* [Nouveautés: automne 2020](new-2021-02.html).
 
 ## Catalogue Renouvaud
 
