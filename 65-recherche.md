@@ -27,3 +27,11 @@ Quelques extraits:
 ![](images/ux/p316-personas.jpg)
 
 D'autres extraits sont [disponibles dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/En2MdPb4H41DtsBJrsEVWB8BfSWTf6CWr3XpW0XOTXKkNQ?e=1gwp5q).
+
+## La collection A Book Apart
+
+### Orienté stratégie, recherche
+
+- Erin Kissane (2012), *Stratégie de contenu web*.
+- Karen McGrane (2013), *Stratégie de contenu mobile*.
+- Erika Hall (2015), *La phase de recherche en web design*.
