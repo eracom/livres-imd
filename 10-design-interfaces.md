@@ -4,7 +4,21 @@ title: Livres design d'interfaces
 permalink: design-interfaces.html
 ---
 
-## Livres de référence en design d'interaction et UX
+## Design d'interaction et UX
+
+### Livres de Design UX et ergonomie, en VF
+
+Voici quelques livres sur les thématiques Design UX et ergonomie des interfaces, en français:
+
+- Carine Lallemand (2018). *Méthodes de design UX: 30 méthodes fondamentales*. 2e édition. Eyrolles. (004.08.03 LAL)
+- Jean-François Nogier et Jules Leclerc (2016). *UX Design & ergonomie des interfaces*. 6e édition. Dunod. (004.08.03 NOG)
+- Jean-François Nogier et al. (2013). *Ergonomie des interfaces : guide pratique*. 5e édition. Dunod.
+- Jean-François Nogier (2005). *Ergonomie du logiciel et design web : le manuel des interfaces utilisateur*. Dunod. (004.08.03 NOG)
+- Didier Mazier (2018). *UI-UX : Les bases du prototypage web et apps*. ENI. (004.08.03 MAZ)
+
+![](images/ux/livres-ux.jpg)
+
+### Livres de référence, en VO
 
 - Bill Moggridge (2006). *Designing Interactions*. MIT Press.
 - Bill Buxton (2007). *Sketching User Experiences*. Morgan Kaufmann Publishers. (Un livre étrange sur le "sketching" et le prototypage).
