@@ -4,10 +4,10 @@ description: Livres pour enseignement IMD.
 lang: fr-FR
 # markdown: GFM
 chapters:
- - title: Infos IMD
-   url: https://code.eracom-pedagogique.ch/infos-profs-imd/
- - title: Pédagogie
-   url: https://code.eracom-pedagogique.ch/pedagogie/
+# - title: Infos IMD
+#   url: https://code.eracom-pedagogique.ch/infos-profs-imd/
+# - title: Pédagogie
+#   url: https://code.eracom-pedagogique.ch/pedagogie/
  - title: Livres
    url: https://code.eracom-pedagogique.ch/livres-imd/
 footer_col_1: <ul class="contact-list">
