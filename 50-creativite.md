@@ -45,3 +45,5 @@ Livres autour de la créativité.
 ### Sur les ateliers de créativité / brainstorming
 
 - *Passez en mode workshop agile ! : 50 nouveaux ateliers pour améliorer l'agilité de votre équipe*. Jean-Michel Moutot ; David Autissier ; François-Xavier Duperret. Montreuil : Pearson France, (2018). (658 MOU)
+
+[Disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/Ep-CvlVXlqlAvwHSHPxmTlcBWvgVa15UfhnUUHcbyBdJRg?e=0keNMl).
