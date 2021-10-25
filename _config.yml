@@ -2,6 +2,7 @@ remote_theme: coursweb/jk-theme
 title: Livres IMD
 description: Livres pour enseignement IMD.
 lang: fr-FR
+robots: noindex, nofollow
 # markdown: GFM
 chapters:
  - title: Infos IMD
