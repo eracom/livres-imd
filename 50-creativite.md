@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livres créativité
+title: Créativité
 permalink: creativite.html
 ---
 

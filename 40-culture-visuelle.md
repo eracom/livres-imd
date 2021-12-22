@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livres culture visuelle
+title: Culture visuelle
 permalink: culture-visuelle.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livres marketing
+title: Marketing
 permalink: marketing.html
 ---
 
