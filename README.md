@@ -8,7 +8,7 @@ L'objectif est de mettre cette bibliothèque de travail à contribution pour sou
 
 * [Livres Design d'interfaces](design-interfaces.html)
 * [Livres Programmation](programmation.html)
-* [Livres Audio-vidéo](audio-video.html)
+* [Livres Audio-vidéo](audio-video-photo.html)
 * [Livres Culture visuelle](culture-visuelle.html)
 * [Livres Créativité](creativite.html)
 * [Livres Marketing](marketing.html)
