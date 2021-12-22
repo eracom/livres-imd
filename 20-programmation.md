@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livres programmation
+title: Programmation web
 permalink: programmation.html
 ---
 
