@@ -7,12 +7,12 @@ permalink: audio-video-photo.html
 ## Pour les cours vidéo
 
 - *Cinematography, Theory & Practice (3rd edition)*, Blain Brown, Focal press. Disponible à la bibliothèque à la cote "791 BRO".
-- *The Filmmaker’s Guide to Digital Imaging*, Blain Brown, Focal Press. (cote: 791 BRO)
+- *The Filmmaker’s Guide to Digital Imaging*, Blain Brown, Focal Press. Cote: 791 BRO.
 
 ## Pour les cours son 
 
-- *Prise de son : stéréophonie et son multicanal*, Christian Hugonnet, Eyrolles, 2012.
-- *Le livre des techniques du son*, Collectif d'auteurs sous la direction de D. Mercier, Dunod, 2017-2019
+- *Prise de son : stéréophonie et son multicanal*, Christian Hugonnet, Eyrolles, 2012. Cote: 681.8 HUG.
+- *Le livre des techniques du son*, Collectif d'auteurs sous la direction de D. Mercier, Dunod, 2017-2019. Cote: 681.8 LIV.
 
 ## Pour les cours photo
 
