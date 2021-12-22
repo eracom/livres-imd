@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Audio/vidéo/photo
+title: Audio vidéo photo
 permalink: audio-video-photo.html
 ---
 
