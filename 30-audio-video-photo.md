@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livres audio/vidéo
+title: Audio/vidéo/photo
 permalink: audio-video-photo.html
 ---
 
