@@ -24,7 +24,7 @@ L'objectif est de mettre cette bibliothèque de travail à contribution pour sou
 
 Renouvaud est l’interface de recherche du réseau des bibliothèques vaudoises. Ce site vous permet de vérifier si les livres sont disponibles, faire des prolongations, etc:
 
-- [https://renouvaud1.primo.exlibrisgroup.com/](https://renouvaud1.primo.exlibrisgroup.com/)
+- [https://sp.renouvaud.ch](https://sp.renouvaud.ch)
 
 ## Lien Teams
 
