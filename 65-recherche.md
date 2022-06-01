@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livres recherche
+title: Livres recherche UX
 permalink: recherche.html
 ---
 
