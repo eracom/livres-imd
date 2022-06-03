@@ -4,6 +4,12 @@ title: Livres pédagogie
 permalink: pedagogie.html
 ---
 
+Les livres de pédagogie se trouvent à la cote 371 de la bibliothèque Eracom-Epsic.
+
+![Le rayon pédagogie](images/pedagogie/biblio-epsic-cote-371.jpg)
+
+![](images/pedagogie/biblio-epsic-cote-371-b.jpg)
+
 ## Sur l'enseignement du design
 
 - Jon Kolko (2017). *How I teach : reflecting on fifteen years in design education*. Austin: Brown Bear Publishing.
@@ -19,14 +25,14 @@ Tout le contenu du livre existe sur le web, sur le site [https://www.howiteachde
 
 ## John Hattie : Visible Learning
 
-John Hattie est un chercheur australien qui utilise une approche scientifique (des analyses à grande échelle sur des millions d'élèves) pour déterminer quelles approches peuvent maximiser l'apprentissage de tous les élèves. Il accorde une grande importance aux résultats visibles et quantifiables de l'apprentissage, d'où le nom de "Visible Learning" pour décrire son approche.
+[John Hattie](https://fr.wikipedia.org/wiki/John_Hattie) est un chercheur néo-zélandais qui utilise une approche scientifique (des analyses à grande échelle sur des millions d'élèves) pour déterminer quelles approches peuvent maximiser l'apprentissage de tous les élèves. Il accorde une grande importance aux résultats visibles et quantifiables de l'apprentissage, d'où le nom de "Visible Learning" pour décrire son approche.
 
 Livres disponibles:
 
-- John Hattie, *L'apprentissage visible : ce que la science sait sur l'apprentissage*, éditions l'Instant Présent. Traduction de *Visible Learning* (2008).
-- John Hattie, *L'apprentissage visible pour les enseignants*, Presses de l'Université du Québec. Traduction de *Visible Learning for Teachers* (2011).
-- John Hattie, Deb Masters, Kate Birch (2016). *Visible Learning into Action: International Case Studies of Impact*. Routledge.
-- John Hattie and Shirley Clarke (2019). *Visible Learning: Feedback*.	Routledge.
+- John Hattie (2017). *L'apprentissage visible pour les enseignants*, Presses de l'Université du Québec. Traduction de *Visible Learning for Teachers* (2011).
+- John Hattie (2020). *L'apprentissage visible : ce que la science sait sur l'apprentissage*, éditions l'Instant Présent. Traduction de *Visible Learning and the Science of How We Learn* (2013).
+- John Hattie, Deb Masters, Kate Birch (2015). *Visible Learning into Action: International Case Studies of Impact*. Routledge.
+- John Hattie and Shirley Clarke (2018). *Visible Learning: Feedback*.	Routledge.
 
 ![Livres de John Hattie](images/pedagogie/livres-john-hattie.jpg)
 
