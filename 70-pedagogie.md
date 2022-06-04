@@ -6,9 +6,9 @@ permalink: pedagogie.html
 
 Les livres de pédagogie se trouvent à la cote 371 de la bibliothèque Eracom-Epsic.
 
-![Le rayon pédagogie](images/pedagogie/biblio-epsic-cote-371.jpg)
+![Le rayon pédagogie A-M](images/pedagogie/biblio-epsic-cote-371.jpg)
 
-![](images/pedagogie/biblio-epsic-cote-371-b.jpg)
+![Le rayon pédagogie M-Z](images/pedagogie/biblio-epsic-cote-371-b.jpg)
 
 ## Sur l'enseignement du design
 
