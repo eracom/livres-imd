@@ -28,7 +28,7 @@ Renouvaud est l’interface de recherche du réseau des bibliothèques vaudoises
 
 ## Lien Teams
 
-[Ce lien OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ErS8-cgW6-dJtbrVij7rC_gBCCjlpHsKg0v__pHsS9N3AQ?e=7ucTn8) permet aux enseignant·es d'accéder à des copies numériques de certains de ces livres.
+[Ce lien OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ElUmxOKFcv1Ggykmrdn64UoBBiGIey-C57zuIKYS4Qu8FA?e=s0Xv3I) permet aux enseignant·es d'accéder à des copies numériques de certains de ces livres.
 
 ## Autres ressources pédagogiques:
 
