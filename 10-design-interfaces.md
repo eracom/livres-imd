@@ -18,13 +18,13 @@ Voici quelques livres sur les thématiques Design UX et ergonomie des interfaces
 
 ![](images/ux/livres-ux.jpg)
 
-### Livres de référence, en VO
+### Livres de référence "Interaction Design", en VO
 
-- Bill Moggridge (2006). *Designing Interactions*. MIT Press.
-- Bill Buxton (2007). *Sketching User Experiences*. Morgan Kaufmann Publishers. (Un livre étrange sur le "sketching" et le prototypage).
-- Kim Goodwin (2009). *Designing for the Digital Age*. Wiley.
-- Alan Cooper (2014). *About Face: The Essentials of Interaction Design*. Wiley.
-- Jenifer Tidwell (2020). *Designing Interfaces: Patterns for Effective Interaction Design*. O'Reilly.
+- Bill Moggridge (2006). *Designing Interactions*. MIT Press. (004.07.05 MOG)
+- Bill Buxton (2007). *Sketching User Experiences*. Morgan Kaufmann Publishers. (Un livre étrange sur le "sketching" et le prototypage). (765 BUX)
+- Kim Goodwin (2009). *Designing for the Digital Age*. Wiley. (765 GOO)
+- Alan Cooper (2014). *About Face: The Essentials of Interaction Design*. Wiley. (004.07.05 COO)
+- Jenifer Tidwell (2020). *Designing Interfaces: Patterns for Effective Interaction Design*. O'Reilly. (004.07.05 TID)
 
 ![Trois bibles du design interactif](images/2020-10/interaction-design-bibles.jpg)
 
@@ -36,28 +36,30 @@ Un livre généraliste:
 
 ## Sur le design pour le web
 
-- Andy Clarke (2019). *Art Direction for the Web*. Smashing Media.
-- Anne-Sophie Fradier (2012). *Webgrids : structure et typographie de la page web*. Perrousseaux.
+- Andy Clarke (2019). *Art Direction for the Web*. Smashing Media. (004.03.03 CLA)
+- Anne-Sophie Fradier (2012). *Webgrids : structure et typographie de la page web*. Perrousseaux. (004.03.03 FRA)
 
 Un livre qui retrace l'histoire du web design de 1990 à 2018:
 
-- *Web Design. The Evolution of the Digital World 1990–Today*, Rob Ford, Julius Wiedemann, Taschen.
+- *Web Design. The Evolution of the Digital World 1990–Today*, Rob Ford, Julius Wiedemann, Taschen. (004.03.03 FOR)
 
 ![Histoire du web en 2017](images/2021-01/2017-web-history.jpg)
 
+Ce livre peut être utilisé pour accompagner le brief "[Another year in web design](https://designbriefs.ch/another-year-in-web-design/)".
+
 ## Sur l'accessibilité
 
-- *Inclusive Components*, Heydon Pickering, Smashing Media.
-- *Form design patterns*, Adam Silver, Smashing Media, 2018.
+- *Inclusive Components*, Heydon Pickering, Smashing Media. (004.03.03 PIC)
+- *Form Design Patterns*, Adam Silver, Smashing Media, 2018. (004.03.03 SIL)
 
 ## Sur les systèmes
 
-- *Design systems : A practical guide to creating design languages for digital products*, Alla Kholmatova, Smashing Media, 2017.
+- *Design systems : A practical guide to creating design languages for digital products*, Alla Kholmatova, Smashing Media, 2017. (004.03.03 KHO)
 
 ## Sur les portfolios
 
-- *Réussir son portfolio et son site web*, Jonathan Munn, Pyramyd.
+- *Réussir son portfolio et son site web*, Jonathan Munn, Pyramyd. (760 MUN)
 
 ## Autres
 
-*Digital Design Theory*, Helen Armstrong, Princeton Architectural Press. Un recueil de textes théoriques importants pour l'histoire du design numérique.
+*Digital Design Theory*, Helen Armstrong, Princeton Architectural Press. Un recueil de textes théoriques importants pour l'histoire du design numérique. (765 DIG)
