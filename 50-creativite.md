@@ -9,7 +9,7 @@ Livres autour de la créativité.
 ## Thématique: créativité
 
 - Guillaume Lamarre (2016). *La Voie du créatif*. Pyramyd. (159.9 LAM)
-- Guillaume Lamarre (2018). *L'art du storytelling*. Pyramyd. (658.8)
+- Guillaume Lamarre (2018). *L'art du storytelling*. Pyramyd. (658.8 LAM)
 - Dorte Nielsen, Sarah Thurber (2017). *Les secrets de la pensée créative*. Pyramyd. (159.9 NIE).
 - Jake Knapp (2019). *Sprint : Résoudre les problèmes et trouver de nouvelles idées en cinq jours*. Eyrolles. (658 KNA)
 - Jean-Michel Moutot, David Autissier, François-Xavier Duperret (2018). *Passez en mode workshop agile ! : 50 nouveaux ateliers pour améliorer l'agilité de votre équipe*. Pearson France. (658 MOU)
