@@ -18,8 +18,8 @@ Livres autour de la créativité.
 
 ### Livres édités par Ellen Lupton
 
-- Ellen Lupton (2011). *Graphic Design Thinking*, Princeton Architectural Press (765 GRA)
-- *Design is Storytelling*, Thames & Hudson
+- Ellen Lupton (2011). *Graphic Design Thinking*. Princeton Architectural Press (765 GRA)
+- Ellen Lupton (2017). *Design is Storytelling*. Thames & Hudson (765 LUP)
 
 ![Trois livres d’Ellen Lupton](images/2020-10/ellen-lupton-books.jpg)
 
