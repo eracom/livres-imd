@@ -49,3 +49,5 @@ Extrait de *L'apprentissage visible pour les enseignants* (p.85-86):
 Un livre utile pour créer des barèmes et des critères d'évaluation cohérents: 
 
 - Pasquini, Raphaël (2021). *Quand la note devient constructive*. Presses de l'Université de Laval ; Paris : Hermann. (371 PAS)
+
+Voir [un résumé du livre](https://code.eracom-pedagogique.ch/pedagogie/evaluation-constructive.html).
