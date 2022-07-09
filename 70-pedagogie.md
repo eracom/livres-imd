@@ -14,6 +14,8 @@ Les livres de pédagogie se trouvent à la cote 371 de la bibliothèque Eracom-E
 
 - Jon Kolko (2017). *How I teach : reflecting on fifteen years in design education*. Austin: Brown Bear Publishing.
 
+![](images/pedagogie/kolko-how-i-teach-biblio.jpg)
+
 Un livre écrit par un designer interactif, qui a fondé une école, Austin Center for Design. Il y partage ses expériences de 15 ans d'enseignement du design. Quelques points forts:
 
 - Décrit une méthode de [planification des cours](https://www.howiteachdesign.com/01_0_courseplans.php)
