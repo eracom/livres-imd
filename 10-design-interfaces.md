@@ -47,6 +47,20 @@ Un livre qui retrace l'histoire du web design de 1990 à 2018:
 
 Ce livre peut être utilisé pour accompagner le brief "[Another year in web design](https://designbriefs.ch/another-year-in-web-design/)".
 
+## Sur les livrables en webdesign
+
+Le livre de Dan Brown, *Communicating Design*, est entièrement dédié aux livrables dans un projet de design (de site web). En particulier:
+
+- Personas
+- Concept Models
+- Site Maps
+- Flowcharts
+- Wireframes
+
+Référence:
+
+- Dan Brown (2011). *Communicating design : developing web site documentation for design and planning*. New Riders. (004.03.03 BRO)
+
 ## Sur l'accessibilité
 
 - *Inclusive Components*, Heydon Pickering, Smashing Media. (004.03.03 PIC)
