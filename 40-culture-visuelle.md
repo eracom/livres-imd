@@ -6,11 +6,11 @@ permalink: culture-visuelle.html
 
 ## Livres édités par Ellen Lupton
 
-Trois petits bijoux pour l'enseignement du design!
+Trois petits bijoux pour l'enseignement du design:
 
-- *Graphic Design: The New Basics*, Princeton Architectural Press
-- *Graphic Design Thinking*, Princeton Architectural Press
-- *Design is Storytelling*, Thames & Hudson
+- *Graphic Design: The New Basics* (2015), Princeton Architectural Press (765 LUP)
+- *Graphic Design Thinking* (2011), Princeton Architectural Press (765 GRA)
+- *Design is Storytelling* (2017), Thames & Hudson (765 LUP)
 
 ![Trois livres édités par Ellen Lupton](images/2020-10/ellen-lupton-books.jpg)
 
@@ -18,10 +18,10 @@ Une version PDF de *Graphic Design: The New Basics* est [disponible dans OneDriv
 
 ## Thématique: couleur
 
-- *Couleur : une histoire visuelle*, Alexandra Loske, Pyramyd.
-- *Under the Rainbow*, Édité par: Tatiana Rihs, Maximage, ECAL.
-- *Color Library - Research into Color Reproduction and Printing*, Maximage & ECAL, JRP Ringier.
-- *Le petit livre des couleurs*, Michel Pastoureau et Dominique Simonnet, Points.
+- *Couleur : une histoire visuelle*, Alexandra Loske, Pyramyd. (535.6 LOS)
+- *Under the Rainbow*, Édité par: Tatiana Rihs, Maximage, ECAL. (535.6 ECA)
+- *Color Library - Research into Color Reproduction and Printing*, Maximage & ECAL, JRP Ringier. (535.6 ECA)
+- *Le petit livre des couleurs*, Michel Pastoureau et Dominique Simonnet, Points. (535.6 PAS)
 
 ![Quatre livres sur la couleur](images/2021-02/livres-couleur.jpg)
 
@@ -29,17 +29,20 @@ Une version PDF de *Graphic Design: The New Basics* est [disponible dans OneDriv
 
 ### Muriel Cooper, monographie, MIT Press
 
-Enorme monographie consacrée à [Muriel Cooper](https://fr.wikipedia.org/wiki/Muriel_Cooper).
+Superbe monographie consacrée à [Muriel Cooper](https://fr.wikipedia.org/wiki/Muriel_Cooper):
+
+*Muriel Cooper* (2017), David Reinfurt et Robert Wiesenberger, The MIT Press. (760 COO)
 
 ![Muriel Cooper, design éditorial](images/cooper/cooper-lasvegas.jpg)
 
 ### Histoire du design, de l'enseignement
 
-- *Bobst Graphic, 1972–1981* (version française), Édité par: Giliane Cachin, Triest Verlag / ECAL.
-- *Mapping Graphic Design History in Switzerland*, Robert Lzicar, Davide Fornari, Triest Verlag.
-- *No Style*, Peter Vetter, Katharina Leuenberger, Meike Eckstein, Triest Verlag.
-- *Hermann Eidenbenz, Teaching Graphic Design*, Sarah Klein (ed.), Triest Verlag / ECAL.
+- Nina Paim (2016). *Taking a line for a walk : assignments in design education*. Leipzig : Spector Books (765 TAK).
+- *Mapping Graphic Design History in Switzerland*, Robert Lzicar, Davide Fornari, Triest Verlag. (766 MAP)
+- *No Style : Ernst Keller (1891-1968) : teacher and pioneer of the Swiss style*, Peter Vetter, Katharina Leuenberger, Meike Eckstein, Triest Verlag. (760 VET)
+- *Hermann Eidenbenz, Teaching Graphic Design*, Sarah Klein (ed.), Triest Verlag / ECAL. (760 EID)
 - *Technology and Research in Art and Design*, Édité par: Davide Fornari, ECAL.
+- *Bobst Graphic, 1972–1981* (version française), Édité par: Giliane Cachin, Triest Verlag / ECAL. (760 BOB)
 
 ![](images/2021-02/livres-histoire-design.jpg)
 
@@ -68,6 +71,10 @@ Une maison d'édition anglaise, fondée en 2009: "[Unit Editions](https://www.un
 
 Quelques extraits sont [disponibles dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ErGceZmYrZpOknZawZ6PVhYBIz2GiseGhfboIrSmxlojyg?e=escUaF).
 
+### Chartes graphiques, identités visuelles
+
+* *IBM : graphic design guide* [Empire](https://e-m-p-i-r-e.eu/fr/produit/ibm-reedition-de-la-norme-graphique-de-paul-rand/). Réédition de la norme dessinée par Paul Rand entre 1962 et 1987. Préface de Steven Heller. Cote: 760 RAN.
+- *Manuals 2: Design & Identity Guidelines*	Adrian Shaughnessy, Tony Brook. Edition fac-similé d'identités graphiques célèbres. Cote: 765 MAN.
 
 ### Divers
 
