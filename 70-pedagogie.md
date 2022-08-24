@@ -20,12 +20,11 @@ Voir [un résumé du livre](https://code.eracom-pedagogique.ch/pedagogie/evaluat
 
 ## Sur l'enseignement du design
 
-
-- **(en)** Nina Paim (2016). *Taking a line for a walk : assignments in design education*. Leipzig : Spector Books (765 TAK).
+- Nina Paim (2016). *Taking a line for a walk : assignments in design education*. Leipzig : Spector Books (765 TAK). Voir [des extraits dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EiJL7_plIMRIhH6B3FfrHjUBahCtfLEknU9LGZEj6DeCMg?e=gtK8dR).
 
 Un livre-objet étonnant qui collecte 224 "briefs de design" de différentes époques, depuis le Bauhaus à aujourd'hui.
 
-- **(en)** Jon Kolko (2017). *How I teach : reflecting on fifteen years in design education*. Austin: Brown Bear Publishing.
+- Jon Kolko (2017). *How I teach : reflecting on fifteen years in design education*. Austin: Brown Bear Publishing.
 
 ![](images/pedagogie/kolko-how-i-teach-biblio.jpg)
 

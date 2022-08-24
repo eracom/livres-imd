@@ -37,7 +37,7 @@ Superbe monographie consacrée à [Muriel Cooper](https://fr.wikipedia.org/wiki/
 
 ### Histoire du design, de l'enseignement
 
-- Nina Paim (2016). *Taking a line for a walk : assignments in design education*. Leipzig : Spector Books (765 TAK).
+- Nina Paim (2016). *Taking a line for a walk : assignments in design education*. Leipzig : Spector Books (765 TAK). Voir [des extraits dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EiJL7_plIMRIhH6B3FfrHjUBahCtfLEknU9LGZEj6DeCMg?e=gtK8dR).
 - *Mapping Graphic Design History in Switzerland*, Robert Lzicar, Davide Fornari, Triest Verlag. (766 MAP)
 - *No Style : Ernst Keller (1891-1968) : teacher and pioneer of the Swiss style*, Peter Vetter, Katharina Leuenberger, Meike Eckstein, Triest Verlag. (760 VET)
 - *Hermann Eidenbenz, Teaching Graphic Design*, Sarah Klein (ed.), Triest Verlag / ECAL. (760 EID)
