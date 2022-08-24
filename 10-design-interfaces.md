@@ -61,6 +61,8 @@ Référence:
 
 - Dan Brown (2011). *Communicating design : developing web site documentation for design and planning*. New Riders. (004.03.03 BRO)
 
+Une version numérique [est disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ErwAC1PDdbdLtsZy4FqmIR0BbNYgypHDv39JctU8ANhqXA?e=ZWgE9n).
+
 ## Sur l'accessibilité
 
 - *Inclusive Components*, Heydon Pickering, Smashing Media. (004.03.03 PIC)
