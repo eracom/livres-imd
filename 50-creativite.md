@@ -8,13 +8,15 @@ Livres autour de la créativité.
 
 ## Thématique: créativité
 
-- Guillaume Lamarre (2016). *La Voie du créatif*. Pyramyd. (159.9 LAM)
-- Guillaume Lamarre (2018). *L'art du storytelling*. Pyramyd. (658.8 LAM)
 - Dorte Nielsen, Sarah Thurber (2017). *Les secrets de la pensée créative*. Pyramyd. (159.9 NIE).
 - Jake Knapp (2019). *Sprint : Résoudre les problèmes et trouver de nouvelles idées en cinq jours*. Eyrolles. (658 KNA)
+- Guillaume Lamarre (2016). *La Voie du créatif*. Pyramyd. (159.9 LAM)
+- Guillaume Lamarre (2018). *L'art du storytelling*. Pyramyd. (658.8 LAM)
 - Jean-Michel Moutot, David Autissier, François-Xavier Duperret (2018). *Passez en mode workshop agile ! : 50 nouveaux ateliers pour améliorer l'agilité de votre équipe*. Pearson France. (658 MOU)
 
 ![](images/2021-02/livres-creativite.jpg)
+
+Le livre de Dorte Nielsen, *Les secrets de la pensée créative*, est en partie [disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EsFt41cwTDtCsAPDkYC0NcIBfbS5IM544KYTKBpSpCr1eQ?e=dtLsEt).
 
 ### Livres édités par Ellen Lupton
 
