@@ -8,7 +8,7 @@ permalink: programmation.html
 
 ![](images/code/code-cover.jpg)
 
-- Golan Levin and Tega Brain (2021). *Code as Creative Medium*. MIT Press.
+- Golan Levin and Tega Brain (2021). *Code as Creative Medium*. MIT Press. (cote: 765 LEV)
 
 Ce livre s'adresse explicitement aux enseignants. En plus de fournir des dizaines d'idées d'exercices, il comporte une section *Advice for New Educators*, ainsi qu'un chapitre *"Classroom techniques"*.
 
@@ -20,19 +20,20 @@ Un scan partiel est [disponible dans OneDrive](https://eduvaud-my.sharepoint.com
 
 ## Livres de Raphaël Goetter
 
-- *CSS 3 Flexbox*, Eyrolles
-- *CSS 3 Grid Layout*, Eyrolles
+- *CSS 3 Flexbox*, Eyrolles (004.03.03 GOE)
+- *CSS 3 Grid Layout*, Eyrolles (004.03.03 GOE)
 
 Version PDF [disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EpHYaLk37T5Es3Ox7FJD5nQBwZ_cwfeZZdujellEoxsMzQ?e=TeQnZC).
 
 ## Sur le Javascript
 
-- *Tout JavaScript*, Olivier Hondermarck, Dunod.
-- *Javascript pour les web designers*, Mat Marquis, collection A Book Apart
+- *Tout JavaScript*, Olivier Hondermarck, Dunod. (004.04.01 HON)
+- *Javascript pour les web designers*, Mat Marquis, collection A Book Apart (004.03.03 MAR)
 
 ## Design génératif et Processing
 
-- Bohnacker, Hartmut et al., *Generative Design : Visualize, Program, and Create with JavaScript in p5.js*, New York : Princeton Architectural Press - nouvelle édition de 2018, en anglais.
+- Bohnacker, Hartmut et al., *Generative Design : Visualize, Program, and Create with JavaScript in p5.js*, New York : Princeton Architectural Press (004.03.03 BOH) 
+- nouvelle édition de 2018, en anglais.
 
 ## La collection A Book Apart
 
