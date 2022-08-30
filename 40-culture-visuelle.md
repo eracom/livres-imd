@@ -73,12 +73,12 @@ Quelques extraits sont [disponibles dans OneDrive](https://eduvaud-my.sharepoint
 
 ### Chartes graphiques, identités visuelles
 
-* *IBM : graphic design guide* [Empire](https://e-m-p-i-r-e.eu/fr/produit/ibm-reedition-de-la-norme-graphique-de-paul-rand/). Réédition de la norme dessinée par Paul Rand entre 1962 et 1987. Préface de Steven Heller. Cote: 760 RAN.
-- *Manuals 2: Design & Identity Guidelines*	Adrian Shaughnessy, Tony Brook. Edition fac-similé d'identités graphiques célèbres. Cote: 765 MAN.
+* *IBM : graphic design guide*. Préface de Steven Heller. [Empire](https://e-m-p-i-r-e.eu/fr/produit/ibm-reedition-de-la-norme-graphique-de-paul-rand/). Réédition de la norme dessinée par Paul Rand entre 1962 et 1987. Cote: 760 RAN.
+- *Manuals 2: Design & Identity Guidelines*. Adrian Shaughnessy, Tony Brook. Edition fac-similé d'identités graphiques célèbres. Cote: 765 MAN.
 
 ![](images/design/manuals-2-guidelines.jpg)
 
 ### Divers
 
-- *Link in Bio – Art After Social Media*, Kehrer Verlag.
+- *Link in Bio – Art After Social Media*, Kehrer Verlag. Cote: 004.03.03 LIN.
 

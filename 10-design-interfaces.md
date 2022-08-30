@@ -8,7 +8,7 @@ permalink: design-interfaces.html
 
 ### Livres de Design UX et ergonomie, en VF
 
-Voici quelques livres sur les thématiques Design UX et ergonomie des interfaces, en français:
+Livres sur les thématiques Design UX et ergonomie des interfaces, en français:
 
 - Carine Lallemand (2018). *Méthodes de design UX: 30 méthodes fondamentales*. 2e édition. Eyrolles. (004.08.03 LAL)
 - Jean-François Nogier et Jules Leclerc (2016). *UX Design & ergonomie des interfaces*. 6e édition. Dunod. (004.08.03 NOG)
