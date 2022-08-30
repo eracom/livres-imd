@@ -18,6 +18,15 @@ Ce livre s'adresse explicitement aux enseignants. En plus de fournir des dizaine
 
 Un scan partiel est [disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EubEwjMmQMdPinIa0tFLcHQBup7cZEehI5sV-RhlhyvLGA?e=zjU8K3).
 
+## Référentiel A11Y et qualité
+
+- Élie Sloïm & Laurent Denis (2016). *Qualité Web : La référence pour les professionnels du Web*. Paris : Eyrolles 2016 [2ème édition]
+
+Ce "référentiel qualité" pour le web propose 226 "bonnes pratiques" concernant tous les aspects d'un site web (code, contenus, formulaires, navigation...).
+
+Un scan partiel est [disponible dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ElKEFJUFEktOiXcdFkrWvCcB6PN9rUdenXizhREfoflCXw?e=bTz5Ba).
+
+
 ## Livres de Raphaël Goetter
 
 - *CSS 3 Flexbox*, Eyrolles (004.03.03 GOE)
