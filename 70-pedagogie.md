@@ -20,7 +20,9 @@ Voir [un résumé du livre](https://code.eracom-pedagogique.ch/pedagogie/evaluat
 
 ## Sur l'enseignement du design
 
-- Nina Paim (2016). *Taking a line for a walk : assignments in design education*. Leipzig : Spector Books (765 TAK). Voir [des extraits dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EiJL7_plIMRIhH6B3FfrHjUBahCtfLEknU9LGZEj6DeCMg?e=gtK8dR).
+- Nina Paim (2016). *Taking a Line for a Walk : Assignments in design education*. Leipzig : Spector Books (765 TAK). Voir [des extraits dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EiJL7_plIMRIhH6B3FfrHjUBahCtfLEknU9LGZEj6DeCMg?e=gtK8dR).
+
+![Taking a Line for a Walk : Assignments in design education](images/crea/taking-a-line-for-a-walk-book.jpg)
 
 Un livre-objet étonnant qui collecte 224 "briefs de design" de différentes époques, depuis le Bauhaus à aujourd'hui.
 
