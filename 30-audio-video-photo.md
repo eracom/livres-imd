@@ -30,6 +30,8 @@ Livres disponibles à la bibliothèque à la cote "681.8".
 
 Livres disponibles à la bibliothèque à la cote "77".
 
+![](images/photo/photo-comment-ca-marche.jpg)
+
 ![](images/2020-10/photographers-playbook.jpg)
 
 ![](images/2021-01/livres-photo.jpg)
