@@ -76,6 +76,8 @@ Quelques extraits sont [disponibles dans OneDrive](https://eduvaud-my.sharepoint
 * *IBM : graphic design guide* [Empire](https://e-m-p-i-r-e.eu/fr/produit/ibm-reedition-de-la-norme-graphique-de-paul-rand/). Réédition de la norme dessinée par Paul Rand entre 1962 et 1987. Préface de Steven Heller. Cote: 760 RAN.
 - *Manuals 2: Design & Identity Guidelines*	Adrian Shaughnessy, Tony Brook. Edition fac-similé d'identités graphiques célèbres. Cote: 765 MAN.
 
+![](images/design/manuals-2-guidelines.jpg)
+
 ### Divers
 
 - *Link in Bio – Art After Social Media*, Kehrer Verlag.
