@@ -67,7 +67,7 @@ Une version numérique [est disponible dans OneDrive](https://eduvaud-my.sharepo
 
 - *Inclusive Components*, Heydon Pickering, Smashing Media. (004.03.03 PIC)
 - *Form Design Patterns*, Adam Silver, Smashing Media, 2018. (004.03.03 SIL)
-- Élie Sloïm & Laurent Denis (2016). *Qualité Web : La référence pour les professionnels du Web*. Paris : Eyrolles 2016 [2ème édition]
+- Élie Sloïm & Laurent Denis (2016). *Qualité Web : La référence pour les professionnels du Web*. Paris : Eyrolles 2016 [2ème édition] (004.03.03 QUA)
 
 Le "référentiel Qualité Web" propose 226 "bonnes pratiques" concernant tous les aspects d'un site web (code, contenus, formulaires, navigation...).
 

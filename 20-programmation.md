@@ -20,7 +20,7 @@ Un scan partiel est [disponible dans OneDrive](https://eduvaud-my.sharepoint.com
 
 ## Référentiel A11Y et qualité
 
-- Élie Sloïm & Laurent Denis (2016). *Qualité Web : La référence pour les professionnels du Web*. Paris : Eyrolles 2016 [2ème édition]
+- Élie Sloïm & Laurent Denis (2016). *Qualité Web : La référence pour les professionnels du Web*. Paris : Eyrolles 2016 [2ème édition] (004.03.03 QUA)
 
 Ce "référentiel qualité" pour le web propose 226 "bonnes pratiques" concernant tous les aspects d'un site web (code, contenus, formulaires, navigation...).
 
