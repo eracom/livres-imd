@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livres pédagogie
+title: Pédagogie
 permalink: pedagogie.html
 ---
 

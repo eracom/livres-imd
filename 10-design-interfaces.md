@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livres design d'interfaces
+title: Design d'interfaces
 permalink: design-interfaces.html
 ---
 

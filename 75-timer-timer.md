@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TimeTimer
+title: TimeTimer ⏰
 permalink: timer.html
 ---
 
@@ -10,7 +10,7 @@ Ces Time Timer sont à votre disposition en mode « self-service » en salle 403
 
 Lorsque vous empruntez l’un des Timer, veuillez remplir la fiche se trouvant sur l’armoire.
 
-![](images/TimeTimer_2042.jpg)
+![](images/TimeTimer_2039.jpg)
 
 ## Utilisations possibles
 
