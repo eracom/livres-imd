@@ -24,10 +24,10 @@ Je vous encourage à tester cet appareil pour en découvrir le potentiel.
 
 ## Avantages par rapport à une application
 
-C’est un objet matériel, qui rend la dimension du temps plus concrète.  
-Le réglage manuel se fait en 1-2 secondes, en situation de cours c'est plus facile que de passer par une app.
-
-Le Timer est maniable, on peut le poser sur le bureau du prof (pour auto-monitorer votre temps de présentation), ou l’accrocher au whiteboard pour qu’il soit visible par la classe.
+- C’est un objet matériel, qui rend la dimension du temps plus concrète.  
+- Le réglage se fait par un geste, c'est plus rapide que de passer par une app.
+- Le Timer est maniable, on peut le poser sur le bureau du prof (pour auto-monitorer votre temps de présentation)
+- On peut l’accrocher au whiteboard, pour qu’il soit visible par la classe.
 
 ![](images/TimeTimer_2042.jpg)
 
