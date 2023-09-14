@@ -5,16 +5,16 @@ lang: fr-FR
 robots: noindex, nofollow
 # markdown: GFM
 chapters:
- - title: Infos IMD
-   url: https://code.eracom-pedagogique.ch/infos-profs-imd/
- - title: Pédagogie
-   url: https://code.eracom-pedagogique.ch/pedagogie/
+# - title: Infos IMD
+#   url: https://code.eracom-pedagogique.ch/infos-profs-imd/
+# - title: Pédagogie
+#   url: https://code.eracom-pedagogique.ch/pedagogie/
  - title: Livres
    url: https://code.eracom-pedagogique.ch/livres-imd/
  - title: Fontes
    url: https://code.eracom-pedagogique.ch/fontes-imd/
- - title: Teams
-   url: https://code.eracom-pedagogique.ch/teams-enseignement/
+# - title: Teams
+#   url: https://code.eracom-pedagogique.ch/teams-enseignement/
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
   <li>2021-2023</li></ul>
