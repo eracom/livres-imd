@@ -34,12 +34,12 @@ Un livre-objet étonnant qui collecte 224 "briefs de design" de différentes ép
 
 Un livre écrit par un designer interactif, qui a fondé une école, Austin Center for Design. Il y partage ses expériences de 15 ans d'enseignement du design. Quelques points forts:
 
-- Décrit une méthode de [planification des cours](https://www.howiteachdesign.com/01_0_courseplans.php)
-- Insiste sur l'importance des [sessions critiques](https://www.howiteachdesign.com/04_2_class_interactions_critique.php).
-- Insiste sur l'importance des [présentations](https://www.howiteachdesign.com/04_3_class_interactions_presentation.php).
-- Décrit [sa méthode d'évaluation](https://www.howiteachdesign.com/06_2_assessment_grading_structure.php) (avec [un fichier exemple](https://www.howiteachdesign.com/d/kolko_how_I_teach_gradesheet_example.doc)).
+- Décrit une méthode de [planification des cours](https://www.wonderfulnarrative.com/books/how-i-teach/introduction-to-course-plans)
+- Insiste sur l'importance des [sessions critiques](https://www.wonderfulnarrative.com/books/how-i-teach/critique).
+- Insiste sur l'importance des [présentations](https://www.wonderfulnarrative.com/books/how-i-teach/presentations).
+- Décrit [sa méthode d'évaluation](https://www.wonderfulnarrative.com/books/how-i-teach/the-structure-of-feedback) (avec [un fichier exemple]](https://www.wonderfulnarrative.com/d/course_material/sample-materials/narrative__how_I_teach__gradesheet_example.doc)).
 
-Tout le contenu du livre existe sur le web, sur le site [https://www.howiteachdesign.com/](https://www.howiteachdesign.com/).
+Tout le contenu du livre existe sur le web, sur le site [wonderfulnarrative.com](https://www.wonderfulnarrative.com/books/how-i-teach/).
 
 ### Histoire du design, de l'enseignement
 
