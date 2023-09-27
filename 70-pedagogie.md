@@ -37,7 +37,7 @@ Un livre écrit par un designer interactif, qui a fondé une école, Austin Cent
 - Décrit une méthode de [planification des cours](https://www.wonderfulnarrative.com/books/how-i-teach/introduction-to-course-plans)
 - Insiste sur l'importance des [sessions critiques](https://www.wonderfulnarrative.com/books/how-i-teach/critique).
 - Insiste sur l'importance des [présentations](https://www.wonderfulnarrative.com/books/how-i-teach/presentations).
-- Décrit [sa méthode d'évaluation](https://www.wonderfulnarrative.com/books/how-i-teach/the-structure-of-feedback) (avec [un fichier exemple]](https://www.wonderfulnarrative.com/d/course_material/sample-materials/narrative__how_I_teach__gradesheet_example.doc)).
+- Décrit [sa méthode d'évaluation](https://www.wonderfulnarrative.com/books/how-i-teach/the-structure-of-feedback) (avec [un fichier exemple](https://www.wonderfulnarrative.com/d/course_material/sample-materials/narrative__how_I_teach__gradesheet_example.doc)).
 
 Tout le contenu du livre existe sur le web, sur le site [wonderfulnarrative.com](https://www.wonderfulnarrative.com/books/how-i-teach/).
 
