@@ -9,6 +9,7 @@ L'objectif est de mettre cette bibliothèque de travail à contribution pour sou
 Renouvaud est l’interface de recherche du réseau des bibliothèques vaudoises. Ce site vous permet de vérifier si les livres sont disponibles, faire des prolongations, etc:
 
 - [https://dgep.renouvaud.ch](https://dgep.renouvaud.ch)
+- [Sélection thématique Design interactif](https://renouvaud1.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=41BCULAUSA_LIB:VU_DGEP&collectionId=81450602350002852)
 
 ## Lien Teams
 
