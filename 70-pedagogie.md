@@ -49,7 +49,7 @@ Livre magnifiquement illustré qui présente le travail de Ernst Keller, graphis
 
 - *Hermann Eidenbenz, Teaching Graphic Design*, Sarah Klein (ed.), Triest Verlag / ECAL.
 
-Livre qui présente la méthodologie d'enseignement du graphiste et typographe suisse Hermann Eidenbenz (1902–1993)m, connu pour sa *Clarendon* dessinée en 1950 pour Linotype. Avec des textes de Sarah Klein (ed.), François Rappo et Roland Früh.
+Livre qui présente le matériel didactique du graphiste et typographe suisse Hermann Eidenbenz (1902–1993), qui a enseigné à l'école de Bâle. Avec des textes de Sarah Klein (ed.), François Rappo et Roland Früh.
 
 ## John Hattie : Visible Learning
 
