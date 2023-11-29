@@ -43,8 +43,13 @@ Tout le contenu du livre existe sur le web, sur le site [wonderfulnarrative.com]
 
 ### Histoire du design, de l'enseignement
 
-- *No Style*, Peter Vetter, Katharina Leuenberger, Meike Eckstein, Triest Verlag.
+- *No Style – Ernst Keller, Teacher and Pioneer of the Swiss Style*, Peter Vetter, Katharina Leuenberger, Meike Eckstein, Triest Verlag, 2017.
+
+Livre magnifiquement illustré qui présente le travail de Ernst Keller, graphiste et enseignant à l'école de design de Zurich (Kunstgewerbeschule Zürich) de 1918 à 1956. 
+
 - *Hermann Eidenbenz, Teaching Graphic Design*, Sarah Klein (ed.), Triest Verlag / ECAL.
+
+Livre qui présente la méthodologie d'enseignement du graphiste et typographe suisse Hermann Eidenbenz (1902–1993)m, connu pour sa *Clarendon* dessinée en 1950 pour Linotype. Avec des textes de Sarah Klein (ed.), François Rappo et Roland Früh.
 
 ## John Hattie : Visible Learning
 
