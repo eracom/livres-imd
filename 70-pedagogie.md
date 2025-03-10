@@ -70,3 +70,14 @@ Extrait de *L'apprentissage visible pour les enseignants* (p.85-86):
 >
 > Trouver des façons de déclencher cette discussion à propos de la progression constitue le point de départ et est indispensable à la survie de n'importe quelle école. Cela nécessite de faire appel à de nombreuses méthodes: l'animation; le partage d'indicateurs de performances marquantes (comme des exemples de travaux d'élèves); le partage des notes d'une classe à l'autre; la planification préliminaire entre les cohortes et à l'intérieur de celles-ci.
 
+## Deux livres de l'éducateur Émile Le Menn
+
+* *L'école autrement - Mon tour du monde des pédagogies alternatives*, par Émile Le Menn, 2021. Cote: 371 LEM.
+
+> "le récit personnel d’un tour du monde original et passionnant à la découverte de 21 établissements (de l’élémentaire au lycée), en Allemagne, Autriche, Norvège, Finlande, Angleterre, Nouvelle-Zélande, mais aussi au Canada, à Madagascar et aux Émirats arabes unis." (...) Ni éloge béat, ni présentation encyclopédique, son récit est une réflexion personnelle sur le sens de l’école. Il nous fait découvrir d’autres façons d’enseigner pour questionner les pédagogies traditionnelles, nous interpeller et, pourquoi pas, contribuer à changer l’école…
+
+* *Motiver les élèves - 20 pratiques pour enseigner autrement*, par Émile Le Menn, 2023.
+
+> Plus les élèves grandissent, plus leur motivation scolaire diminue. (...) Cet ouvrage interroge notre façon d’enseigner pour inverser cette tendance et (re)donner aux élèves l’envie d’apprendre. Il s’appuie sur l’état de la recherche pour stimuler et entretenir cette motivation indispensable aux apprentissages, à la réussite et au bien-être des individus.
+
+Livre découvert [en écoutant cet intéressant podcast](https://shows.acast.com/617a56af375e340012615031/episodes/la-motivation-des-eleves-emile-le-menn-03) ("La motivation des élèves") avec l'auteur.
