@@ -27,8 +27,8 @@ Quelques livres disponibles à la bibliothèque à la cote "77":
 
 - *La photo comment ça marche*, David Taylor, Eyrolles (77 TAY)
 - *Langford's advanced photography*, Michael Langford, Routledge (77 LAN)
-- *The Photographer’s Playbook* (Aperture, 2014) est un livre-ressource qui propose 307 briefs et idées pour l’enseignement de la photo. (77 PHO) ([lien renouvaud](https://renouvaud1.primo.exlibrisgroup.com/permalink/41BCULAUSA_LIB/1766fn9/alma991021398598202852))
-- *[Eyes Open – 23 idées photographiques pour enfants curieux](https://www.delpireandco.com/produit/eyes-open/)*, Susan Meiselas, delpire & co, 2021. Cote: 77 MEI.
+- *The Photographer’s Playbook* (Aperture, 2014), un livre-ressource qui propose 307 briefs et idées pour l’enseignement de la photo. (77 PHO)
+- *[Eyes Open – 23 idées photographiques pour enfants curieux](https://www.delpireandco.com/produit/eyes-open/)*, Susan Meiselas, delpire & co. Cote: 77 MEI.
 
 > *Eyes Open* s’adresse aux enfants et aux adolescents qui désirent découvrir ou approfondir leur pratique de la photographie. Grâce à 23 propositions, le lecteur curieux, débutant ou aguerri, joue avec son smartphone ou son appareil photo pour aborder le monde qui l’entoure. (...) *Eyes Open* s’inscrit dans la lignée de *Learn To See* (The Polaroid Foundation, 1974), un livre publié par Susan Meiselas, alors jeune diplômée en sciences de l’éducation à Harvard, aujourd’hui épuisé.
 
