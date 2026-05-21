@@ -30,7 +30,7 @@ Le livre de Dorte Nielsen, *Les secrets de la pensée créative*, est en partie 
 ### Livres contenant des briefs créatifs
 
 - Jason Fulford (2014), *The Photographer’s Playbook: 307 Assignments and Ideas*. Aperture. (77 PHO). - Un livre-ressource qui propose 307 briefs et idées pour l'enseignement de la photo.
-- Nina Paim (2016). *Taking a Line for a Walk : Assignments in design education*. Leipzig : Spector Books (765 TAK). Voir [des extraits dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EiJL7_plIMRIhH6B3FfrHjUBahCtfLEknU9LGZEj6DeCMg?e=gtK8dR). / Voir [Wikipédia](https://fr.wikipedia.org/wiki/Taking_a_Line_for_a_Walk) / Voir [AR-A+D](https://ar-ad.ch/taking-a-line-for-a-walk/).
+- Nina Paim (2016). *Taking a Line for a Walk : Assignments in design education*. Leipzig : Spector Books (765 TAK). ⮕ [extraits dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EiJL7_plIMRIhH6B3FfrHjUBahCtfLEknU9LGZEj6DeCMg?e=gtK8dR). / ⮕ [Wikipédia](https://fr.wikipedia.org/wiki/Taking_a_Line_for_a_Walk) / ⮕ [AR-A+D](https://ar-ad.ch/taking-a-line-for-a-walk/).
 - Dorte Nielsen, Sarah Thurber (2017). *Les secrets de la pensée créative*. Pyramyd. (159.9 NIE). Comporte un programme de 21 exercices créatifs.
 
 ![Taking a line for a walk : assignments in design education](images/crea/taking-a-line-for-a-walk-book.jpg)
